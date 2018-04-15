@@ -1,0 +1,37 @@
+[09-Apr-2018 22:57:39] NOTICE: fpm is running, pid 14
+[09-Apr-2018 22:57:39] NOTICE: ready to handle connections
+[09-Apr-2018 22:59:43] NOTICE: Terminating ...
+[09-Apr-2018 22:59:43] NOTICE: exiting, bye-bye!
+[09-Apr-2018 23:07:36] NOTICE: fpm is running, pid 30
+[09-Apr-2018 23:07:36] NOTICE: ready to handle connections
+[10-Apr-2018 00:03:11] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[10-Apr-2018 00:52:05] NOTICE: Terminating ...
+[10-Apr-2018 00:52:05] NOTICE: exiting, bye-bye!
+[10-Apr-2018 04:34:21] NOTICE: fpm is running, pid 29
+[10-Apr-2018 04:34:21] NOTICE: ready to handle connections
+[10-Apr-2018 04:47:35] NOTICE: Terminating ...
+[10-Apr-2018 04:47:35] NOTICE: exiting, bye-bye!
+[10-Apr-2018 04:47:41] NOTICE: fpm is running, pid 29
+[10-Apr-2018 04:47:41] NOTICE: ready to handle connections
+[10-Apr-2018 09:02:21] NOTICE: Terminating ...
+[10-Apr-2018 09:02:21] NOTICE: exiting, bye-bye!
+[10-Apr-2018 19:07:59] NOTICE: fpm is running, pid 25
+[10-Apr-2018 19:07:59] NOTICE: ready to handle connections
+[11-Apr-2018 06:52:12] NOTICE: Terminating ...
+[11-Apr-2018 06:52:12] NOTICE: exiting, bye-bye!
+[11-Apr-2018 19:02:09] NOTICE: fpm is running, pid 26
+[11-Apr-2018 19:02:09] NOTICE: ready to handle connections
+[11-Apr-2018 23:13:42] NOTICE: Terminating ...
+[11-Apr-2018 23:13:42] NOTICE: exiting, bye-bye!
+[12-Apr-2018 20:34:26] NOTICE: fpm is running, pid 26
+[12-Apr-2018 20:34:26] NOTICE: ready to handle connections
+[13-Apr-2018 09:43:41] NOTICE: Terminating ...
+[13-Apr-2018 09:43:41] NOTICE: exiting, bye-bye!
+[13-Apr-2018 18:57:58] NOTICE: fpm is running, pid 25
+[13-Apr-2018 18:57:58] NOTICE: ready to handle connections
+[14-Apr-2018 00:50:56] NOTICE: Terminating ...
+[14-Apr-2018 00:50:56] NOTICE: exiting, bye-bye!
+[14-Apr-2018 20:38:17] NOTICE: fpm is running, pid 26
+[14-Apr-2018 20:38:17] NOTICE: ready to handle connections
+[15-Apr-2018 10:16:33] NOTICE: Terminating ...
+[15-Apr-2018 10:16:33] NOTICE: exiting, bye-bye!
